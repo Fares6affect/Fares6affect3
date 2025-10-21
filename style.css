@@ -67,8 +67,6 @@ table {
     border: 2px solid black;
     border-collapse: collapse;
     margin: 10px auto;
-    box-sizing: border-box;
-    width:100%;
 }
 table tr {
     background: red;
@@ -143,5 +141,6 @@ ul {
     }
 
 }
+
 
 
