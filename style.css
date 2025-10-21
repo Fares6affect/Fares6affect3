@@ -16,7 +16,10 @@ nav,section{
     margin:20px 0px;
 }
 nav{
-    margin:20px 0px 10px;
+    text-align: center;
+    max-width: 960px;
+    border: 1px solid black;
+    padding: 5px;
     order:2;
 }
 #hyperlinks{
@@ -140,4 +143,5 @@ ul {
     }
 
 }
+
 
